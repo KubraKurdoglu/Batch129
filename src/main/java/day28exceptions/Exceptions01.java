@@ -34,7 +34,7 @@ public class Exceptions01 {
         divide2(a,b);
 
 
-        //mesela divide methodun da ir "exception olusabilir. eger "b=0" degeri girilirse
+        //mesela divide methodun da bir "exception olusabilir. eger "b=0" degeri girilirse
         //compile time normal gorunse de run time de hata verecek.
         // cunku bolum sifir olamaz
 
