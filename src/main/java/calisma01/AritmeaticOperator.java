@@ -15,6 +15,7 @@ public class AritmeaticOperator {
         int sayi2 = input.nextInt();
 
 
+
         Scanner scan = new Scanner(System.in);
         System.out.println("Ürün miktarını sayı olarak giriniz");
 
