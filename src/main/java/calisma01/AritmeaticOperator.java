@@ -18,6 +18,7 @@ public class AritmeaticOperator {
         Scanner scan = new Scanner(System.in);
         System.out.println("Ürün miktarını sayı olarak giriniz");
 
+
         int miktar = scan.nextInt(); System.out.println("Ürün birim fiyatını giriniz");
         double fiyat = scan.nextDouble();
 

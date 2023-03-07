@@ -16,8 +16,6 @@ public class Car {
 
         System.out.println("Corolla hizli hareket eder..");
 
-
-
     }
 
     public void dur() {
